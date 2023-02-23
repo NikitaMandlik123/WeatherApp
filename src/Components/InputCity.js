@@ -1,5 +1,5 @@
 import React from 'react'
-import '/Users/nikitamandlik/Desktop/weather-app/weather-app/src/styles.css'
+import '/Users/nikitamandlik/Desktop/github/WeatherApp/src/Components/styles.css'
 
 
 function InputCity({onInputHandler,city,onSubmitHandler}){
