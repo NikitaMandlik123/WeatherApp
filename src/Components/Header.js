@@ -1,5 +1,5 @@
 import React from 'react'
-import '/Users/nikitamandlik/Desktop/github/WeatherApp/src/Components/styles.css'
+import './styles.css'
 function Header(){
     return(
         <div className='heading'>

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 
-import '/Users/nikitamandlik/Desktop/github/WeatherApp/src/Components/styles.css'
+import './styles.css'
 function ShowWeather({data}){
     const [dynamicBg,setDynamicBg] = useState("")
     const city = data.name;
